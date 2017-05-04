@@ -41,6 +41,7 @@
     <string name="settings_url_warn_http">POZOR: \"http\" není bezpečné. Prosím použijte \"https\"</string>
     <string name="settings_username">Uživatelské jméno</string>
     <string name="settings_password">Heslo</string>
+    <string name="settings_password_unchanged">Heslo (nezměněno)</string>
     <string name="settings_password_check_description">Ukáže, zda jsou přihlašovací údaje správné.</string>
     <string name="settings_submit">Připojit</string>
     <string name="settings_submitting">Připojování &#8230;</string>
@@ -89,6 +90,9 @@
 
     <string name="widget_all_notes_title">Všechny poznámky</string>
     <string name="widget_single_note_title">Jedna poznámka</string>
+
+    <!-- Shortcuts -->
+    <string name="shortcut_create_long">Vytvořit novou poznámku</string>
 
     <!-- Plurals -->
     <plurals name="ab_selected">

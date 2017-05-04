@@ -41,6 +41,7 @@
     <string name="settings_url_warn_http">警告: \"http\" は安全ではありません。 \"https\" を使用してください。</string>
     <string name="settings_username">ユーザー名</string>
     <string name="settings_password">パスワード</string>
+    <string name="settings_password_unchanged">パスワード (変更されていません)</string>
     <string name="settings_password_check_description">資格情報が正しいかどうかを表示します。</string>
     <string name="settings_submit">接続</string>
     <string name="settings_submitting">接続中&#8230;</string>
